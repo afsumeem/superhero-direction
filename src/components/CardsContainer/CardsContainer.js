@@ -8,8 +8,11 @@ const CardsContainer = () => {
 
     //set programmers data
     const [programmers, setProgrammers] = useState([]);
+
     //set cart
     const [cart, setCart] = useState([])
+
+
     //load data
 
     useEffect(() => {
@@ -21,9 +24,9 @@ const CardsContainer = () => {
 
 
 
-    // handle add to cart button
+    // handle add to meeting button
 
-    const handleCartButton = programmer => {
+    const handleMeetingButton = programmer => {
         const newCart = [...cart, programmer];
         setCart(newCart);
     }
@@ -39,7 +42,7 @@ const CardsContainer = () => {
                         programmers.map(programmer => <ProgrammersList
                             programmer={programmer}
                             key={programmer._id}
-                            handleCartButton={handleCartButton}
+                            handleMeetingButton={handleMeetingButton}
                         >
                         </ProgrammersList>)
                     }
@@ -53,8 +56,6 @@ const CardsContainer = () => {
 
                 </div>
             </div>
-
-
         </div>
     );
 };
