@@ -2,7 +2,8 @@
 
 [The Code Snapshots Live Site](https://the-superhero-direction-afsumeem.netlify.app/).
 
-## This website is about a programmers club
-## In this Website we can see some programmers information
-## 
+## This website is about a programmers club.
+
+## In this Website we can see some programmers information.
+## And also we can invite them in a meeting. 
 

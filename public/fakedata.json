@@ -2,32 +2,32 @@
   {
     "_id": "614ffe47674f68a189b359ee",
     "balance": 1575.19,
-    "picture": "https://randomuser.me/api/portraits/women/19.jpg",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Bill_Gates_2017_%28cropped%29.jpg",
     "age": 29,
     "language": "JavaScript",
-    "name": "Colon Dawson",
-    "company": "STEELFAB",
+    "name": "Bill Gates",
+    "company": "Microsoft",
     "email": "colondawson@steelfab.com",
     "phone": "+1 (866) 572-2658"
   },
   {
     "_id": "614ffe47cadb6e1187bc2331",
     "balance": 1619.29,
-    "picture": "https://randomuser.me/api/portraits/men/75.jpg",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/1/14/James_Gosling_2008.jpg",
     "age": 26,
-    "language": "PHP",
-    "name": "Caitlin Galloway",
-    "company": "ZOGAK",
+    "language": "JAVA",
+    "name": "James Gosling",
+    "company": "Oracle Corp's ",
     "email": "caitlingalloway@zogak.com",
     "phone": "+1 (946) 463-3068"
   },
   {
     "_id": "614ffe479c72f0f3814c2a84",
     "balance": 1161.75,
-    "picture": "https://randomuser.me/api/portraits/men/64.jpg",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/2/28/Richard_Stallman_at_LibrePlanet_2019.jpg",
     "age": 31,
     "language": "Java",
-    "name": "Queen Suarez",
+    "name": "Richard Stallman",
     "company": "VURBO",
     "email": "queensuarez@vurbo.com",
     "phone": "+1 (913) 493-2269"
@@ -35,10 +35,10 @@
   {
     "_id": "614ffe47983060fece162067",
     "balance": 2893.68,
-    "picture": "https://randomuser.me/api/portraits/women/76.jpg",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Bjarne-stroustrup_%28cropped%29.jpg",
     "age": 31,
     "language": "JavaScript",
-    "name": "Hunt Simpson",
+    "name": "Bjarne Stroustrup",
     "company": "QUILM",
     "email": "huntsimpson@quilm.com",
     "phone": "+1 (965) 478-3675"
@@ -46,10 +46,10 @@
   {
     "_id": "614ffe474bd148e4ecc76254",
     "balance": 1952.67,
-    "picture": "https://randomuser.me/api/portraits/men/30.jpg",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sir_Tim_Berners-Lee_%28cropped%29.jpg",
     "age": 31,
-    "language": "JavaScript",
-    "name": "Duke Mason",
+    "language": "C++",
+    "name": "Tim Beners-Lee",
     "company": "CRUSTATIA",
     "email": "dukemason@crustatia.com",
     "phone": "+1 (932) 548-3835"
@@ -60,7 +60,7 @@
     "picture": "https://randomuser.me/api/portraits/men/61.jpg",
     "age": 37,
     "language": "Python",
-    "name": "Noemi Cooke",
+    "name": "Ken Thompson",
     "company": "TECHMANIA",
     "email": "noemicooke@techmania.com",
     "phone": "+1 (953) 420-3234"
@@ -71,7 +71,7 @@
     "picture": "https://randomuser.me/api/portraits/men/18.jpg",
     "age": 30,
     "language": "C",
-    "name": "Ratliff Mcknight",
+    "name": "Linus Torvalds",
     "company": "OVERFORK",
     "email": "ratliffmcknight@overfork.com",
     "phone": "+1 (898) 434-3805"
@@ -82,7 +82,7 @@
     "picture": "https://randomuser.me/api/portraits/men/9.jpg",
     "age": 26,
     "language": "JavaScript",
-    "name": "Rowena Jenkins",
+    "name": "Dennis Ritchie",
     "company": "ZOXY",
     "email": "rowenajenkins@zoxy.com",
     "phone": "+1 (974) 579-3262"
@@ -93,7 +93,7 @@
     "picture": "https://randomuser.me/api/portraits/men/24.jpg",
     "age": 26,
     "language": "JavaScript",
-    "name": "Vickie Duke",
+    "name": "Jack Dorsey",
     "company": "CYTRAK",
     "email": "vickieduke@cytrak.com",
     "phone": "+1 (809) 457-3348"
@@ -104,7 +104,7 @@
     "picture": "https://randomuser.me/api/portraits/men/57.jpg",
     "age": 36,
     "language": "PHP",
-    "name": "Conrad Cannon",
+    "name": "Ruchi Sanghvi",
     "company": "MENBRAIN",
     "email": "conradcannon@menbrain.com",
     "phone": "+1 (818) 547-2987"
@@ -115,7 +115,7 @@
     "picture": "https://randomuser.me/api/portraits/men/78.jpg",
     "age": 24,
     "language": "JavaScript",
-    "name": "Hicks Durham",
+    "name": "Drew Houston",
     "company": "AVENETRO",
     "email": "hicksdurham@avenetro.com",
     "phone": "+1 (940) 501-2459"
@@ -123,11 +123,11 @@
   {
     "_id": "614ffe47e8dd0a6cf48bed16",
     "balance": 2098.90,
-    "picture": "https://randomuser.me/api/portraits/men/98.jpg",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Mark_Zuckerberg_F8_2019_Keynote_%2847721886632%29_%28cropped%29.jpg",
     "age": 39,
     "language": "JavaScript",
-    "name": "Kaufman Hahn",
-    "company": "INDEXIA",
+    "name": "Mark Zuckerberg",
+    "company": "Facebook",
     "email": "kaufmanhahn@indexia.com",
     "phone": "+1 (980) 520-3606"
   },
@@ -137,7 +137,7 @@
     "picture": "https://randomuser.me/api/portraits/women/14.jpg",
     "age": 21,
     "language": "JavaScript",
-    "name": "Tammi Rosales",
+    "name": "Larry Wall",
     "company": "POLARIUM",
     "email": "tammirosales@polarium.com",
     "phone": "+1 (952) 469-2618"

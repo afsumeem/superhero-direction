@@ -1,3 +1,4 @@
+/* card container style */
 .card-container{
     text-align: left;
     background-color: rgb(250, 241, 242);
@@ -11,6 +12,8 @@
     border-radius: 50px;
 
 }
+
+/* button style */
 .button{
     background-color: rgb(253, 180, 253);
 }

@@ -12,7 +12,6 @@ const CardsContainer = () => {
     //set cart
     const [cart, setCart] = useState([])
 
-
     //load data
 
     useEffect(() => {
@@ -20,8 +19,6 @@ const CardsContainer = () => {
             .then(res => res.json())
             .then(data => setProgrammers(data))
     }, []);
-
-
 
 
     // handle add to meeting button

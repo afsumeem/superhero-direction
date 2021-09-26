@@ -5,6 +5,11 @@ import './ProgrammersList.css'
 
 const ProgrammersList = (props) => {
 
+    //set button desable
+    const [disable, setDisable] = React.useState(false);
+
+
+    //destructuring properties
     const { picture, name, language, company, balance, phone, email } = props.programmer;
 
     return (
@@ -25,7 +30,12 @@ const ProgrammersList = (props) => {
             {/* add to meeting button */}
 
             <button
-                onClick={() => props.handleMeetingButton(props.programmer)}
+                disabled={disable}
+                onClick={() => {
+                    props.handleMeetingButton(props.programmer);
+                    setDisable(true);
+                }
+                }
                 className="btn button w-100 pe-auto">
                 <FontAwesomeIcon icon={faHandshake} /> Add to Meeting
             </button>

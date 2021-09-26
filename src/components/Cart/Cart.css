@@ -1,13 +1,18 @@
-.button{
-    background-color: rgb(253, 180, 253);
-    
-}
+/* meeting added card style*/
+
 .meeting-added-card{
     margin-left: 20px;
     box-shadow:
                 4px 4px 10px rgb(221, 213, 213),
                 -4px -4px 10px rgb(250, 248, 248);
                 
+}
+
+/*button style*/
+
+.button{
+    background-color: rgb(253, 180, 253);
+    
 }
 
 .button:hover{

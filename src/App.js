@@ -6,8 +6,13 @@ import Header from './components/Header/Header';
 function App() {
   return (
     <div className="App">
+
+      {/* display header */}
       <Header />
+
+      {/* display cards */}
       <CardsContainer></CardsContainer>
+
     </div>
   );
 }
