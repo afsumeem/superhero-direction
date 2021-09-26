@@ -1,6 +1,12 @@
+/*utilities*/
+body{
+  background-color: rgb(237, 237, 252);
+}
+
 .App {
   text-align: center;
 }
+
 
 .App-logo {
   height: 40vmin;
